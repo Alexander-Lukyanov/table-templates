@@ -40,10 +40,10 @@
 
 | Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
-| Form-2-StateBudgetFormatter.xls | Форма № 2д - Звіт про надходження та використання коштів загального фонду (державний бюджет) |
-| Form-2-LocalBudgetFormatter.xls | Форма № 2м - Звіт про надходження та використання коштів загального фонду (місцевий бюджет) |
-| Form-4-1-StateBudgetFormatter.xls | Форма № 4-1д - Звіт про надходження і використання коштів, отриманих як плата за послуги  (державний бюджет) |
-| Form-4-1-LocalBudgetFormatter.xls | Форма № 4-1м - Звіт про надходження і використання коштів, отриманих як плата за послуги  (місцевий бюджет) |
+| [Form-2-StateBudgetFormatter.xls](https://docs.google.com/spreadsheets/d/1vcN7F6VqipykL1Cp4KeILJ-HZqUr10QbLfK4WpnsegA/edit?usp=sharing) | Форма № 2д - Звіт про надходження та використання коштів загального фонду (державний бюджет) |
+| [Form-2-LocalBudgetFormatter.xls](https://docs.google.com/spreadsheets/d/1HQxY67qZDSfrEIGBwBDdZeNHW1v9cRXpRGsbBHGCxO8/edit?usp=sharing) | Форма № 2м - Звіт про надходження та використання коштів загального фонду (місцевий бюджет) |
+| [Form-4-1-StateBudgetFormatter.xls](https://docs.google.com/spreadsheets/d/1x2BuOGFRWpB6qZohMCu5UZqrYPyyYM_xcA-C37xI8c4/edit?usp=sharing) | Форма № 4-1д - Звіт про надходження і використання коштів, отриманих як плата за послуги  (державний бюджет) |
+| [Form-4-1-LocalBudgetFormatter.xls](https://docs.google.com/spreadsheets/d/1oIKRRP56X65C2XzXg6KbdOA6AiivcNCgd1Q9-7HqJys/edit?usp=sharing) | Форма № 4-1м - Звіт про надходження і використання коштів, отриманих як плата за послуги  (місцевий бюджет) |
 | Form-4-2-StateBudgetFormatter.xls | Форма № 4-2д - Звіт про надходження і використання коштів, отриманих за іншими джерелами власних надходжень (державний бюджет) |
 | Form-4-2-LocalBudgetFormatter.xls | Форма № 4-2м - Звіт про надходження і використання коштів, отриманих за іншими джерелами власних надходжень (місцевий бюджет) |
 | Form-4-3-StateBudgetFormatter.xls | Форма № 4-3д - Звіт про надходження і використання інших надходжень спеціального фонду (державний бюджет) |
