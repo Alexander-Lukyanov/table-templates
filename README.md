@@ -10,24 +10,24 @@
 
 [all-001 - Набір данних: «Довідник підприємств, установ (закладів) та організацій розпорядника інформації та підпорядкованих йому організацій»](#Набір-данних-all-001)
 
-[all-002 - Набір данних: «Інформація про організаційну структуру розпоря-дника інформації»](#Набір-данних-all-002)
+[all-002 - Набір данних: «Інформація про організаційну структуру розпорядника інформації»](#Набір-данних-all-002)
 
 ## Набір данних: all-001
 
 <p align="center"><i>Довідник підприємств, установ (закладів) та організацій розпорядника інформації та підпорядкованих йому організацій</i></p>
 
-| Посилання на файли<br>форматорів та структур | Короткий опис форматорів або файлів структур |
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
-| [referenceBookFormatter.xls](https://docs.google.com/spreadsheets/d/1eAh-_koPnNYcVyWxoHeREJ2RriofUHrei-H5EnkQ82Q/edit?usp=sharing) | Відомості про підприємства, установи (заклади), організації або структурні підрозділи розпорядни-ка інформації |
+| [referenceBookFormatter.xls](https://docs.google.com/spreadsheets/d/1eAh-_koPnNYcVyWxoHeREJ2RriofUHrei-H5EnkQ82Q/edit?usp=sharing) | Відомості про підприємства, установи (заклади), організації або структурні підрозділи розпорядника інформації |
 | [allStructure-001.csv](https://drive.google.com/file/d/1Ed_nrsFjcmQ8Lx2Epkm9WKpQ9Su4yKbP/view?usp=sharing) | Описання структури для таблиці referenceBook |
 
 ## Набір данних: all-002
 
-<p align="center"><i>Інформація про організаційну структуру розпоря-дника інформації</i></p>
+<p align="center"><i>Інформація про організаційну структуру розпорядника інформації</i></p>
 
-| Посилання на файли<br>форматорів та структур | Короткий опис форматорів або файлів структур |
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
-| [organizationsFormatter.xls](https://docs.google.com/spreadsheets/d/1gMwDp1IuBFrxizrxYSfxI8q9lEhO8HudPm4PkWBr76M/edit?usp=sharing) | Перелік юридичних осіб, що підпорядковані розпо-ряднику та/або входять в його структуру |
+| [organizationsFormatter.xls](https://docs.google.com/spreadsheets/d/1gMwDp1IuBFrxizrxYSfxI8q9lEhO8HudPm4PkWBr76M/edit?usp=sharing) | Перелік юридичних осіб, що підпорядковані розпоряднику та/або входять в його структуру |
 | [organizationalUnitsFormatter.xls](https://docs.google.com/spreadsheets/d/1B4OT9PL7tQm4TWHleg6Mfvf5ITcKL_eOE4IES9VvF88/edit?usp=sharing) | Перелік структурних підрозділів усіх рівнів, що входять до юридичної особи, якою є розпорядник |
 | [postsFormatter.xls](https://docs.google.com/spreadsheets/d/1H1NpucGuMyPPtgZhZndWtwug0kCENeY4P_j1pNCTs48/edit?usp=sharing) | Перелік посад та працівників юридичної особи, якою є розпорядник |
 | [allStructure-002.csv](https://drive.google.com/file/d/111HFYLXHRNdUDnJ0ho_2SWHVsCXC-IfW/view?usp=sharing) | Описання структур для таблиць organizations, organizationalUnits та posts |
