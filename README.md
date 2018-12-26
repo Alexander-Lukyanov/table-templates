@@ -25,7 +25,7 @@
 
 <p align="center"><i>Інформація про організаційну структуру розпоря-дника інформації</i></p>
 
-| Посилання на файли форматорів<br>та структур | Короткий опис форматорів або файлів структур |
+| Посилання на файли<br>форматорів та структур | Короткий опис форматорів або файлів структур |
 | ------ | ------ |
 | [organizationsFormatter.xls](https://docs.google.com/spreadsheets/d/1gMwDp1IuBFrxizrxYSfxI8q9lEhO8HudPm4PkWBr76M/edit?usp=sharing) | Перелік юридичних осіб, що підпорядковані розпо-ряднику та/або входять в його структуру |
 | [organizationalUnitsFormatter.xls](https://docs.google.com/spreadsheets/d/1B4OT9PL7tQm4TWHleg6Mfvf5ITcKL_eOE4IES9VvF88/edit?usp=sharing) | Перелік структурних підрозділів усіх рівнів, що входять до юридичної особи, якою є розпорядник |
