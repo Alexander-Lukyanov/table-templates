@@ -14,6 +14,8 @@
 
 [all-010 - Набір данних: «Фінансова звітність суб’єктів господарювання державного сектору економіки»](#Набір-данних-all-010)
 
+[all-011 - Набір данних: «Переліки регуляторних актів із зазначенням дати набрання чинності, строку проведення базового, повторного та періодичного їх відстеження»](#Набір-данних-all-011)
+
 ## Набір данних: all-001
 
 <p align="center"><i>Довідник підприємств, установ (закладів) та організацій розпорядника інформації та підпорядкованих йому організацій</i></p>
@@ -57,4 +59,14 @@
 | Form-4-7-1-LocalBudgetFormatter.xls | Форма № 7.1м - Звіт про заборгованість за окремими програмами (державний бюджет) |
 | allStructureStateBudget-002.csv | <b>Описання структур для таблиць: </b> Form-2-StateBudgetFormatter.xls, Form-4-1-StateBudgetFormatter.xls, Form-4-2-StateBudgetFormatter.xls, Form-4-3-StateBudgetFormatter.xls, Form-4-3-1-StateBudgetFormatter.xls, Form-4-4-StateBudgetFormatter.xls, Form-7-StateBudgetFormatter.xls, Form-7-1-StateBudgetFormatter.xls |
 | allStructureLocalBudget-002.csv | <b>Описання структур для таблиць: </b> Form-2-LocalBudgetFormatter.xls, Form-4-1-LocalBudgetFormatter.xls, Form-4-2-LocalBudgetFormatter.xls, Form-4-3-LocalBudgetFormatter.xls, Form-4-3-1-LocalBudgetFormatter.xls, Form-7-LocalBudgetFormatter.xls, Form-7-1-LocalBudgetFormatter.xls |
+
+## Набір данних: all-011
+
+<p align="center"><i> Переліки регуляторних актів із зазначенням дати набрання чинності, строку проведення базового, повторного та періодичного їх відстеження </i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [listOfRegulatoryActsFormatter.xls]( https://docs.google.com/spreadsheets/d/1yGniQiJhagiOCI2WfspLF_rPW_Zys2hZSq6PaYnNl-Q/edit?usp=sharing) | Таблиця, що містить перелік діючих регуляторних актів розпорядника із зазначенням інформації про нормативно-правові акти, якими вони були введені в дію, а також інформації про базові, повторні та періодичні відстеження |
+| [allStructure-011.csv]( https://drive.google.com/file/d/1GbxCsfr95WymJeEByhbtKo3PXIRY59Xx/view?usp=sharing) | Описання структури для таблиці listOfRegulatoryActs |
+
 
