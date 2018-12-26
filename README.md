@@ -12,6 +12,8 @@
 
 [all-002 - Набір данних: «Інформація про організаційну структуру розпорядника інформації»](#Набір-данних-all-002)
 
+[all-010 - Набір данних: «Фінансова звітність суб’єктів господарювання державного сектору економіки»](#Набір-данних-all-010)
+
 ## Набір данних: all-001
 
 <p align="center"><i>Довідник підприємств, установ (закладів) та організацій розпорядника інформації та підпорядкованих йому організацій</i></p>
@@ -31,4 +33,28 @@
 | [organizationalUnitsFormatter.xls](https://docs.google.com/spreadsheets/d/1B4OT9PL7tQm4TWHleg6Mfvf5ITcKL_eOE4IES9VvF88/edit?usp=sharing) | Перелік структурних підрозділів усіх рівнів, що входять до юридичної особи, якою є розпорядник |
 | [postsFormatter.xls](https://docs.google.com/spreadsheets/d/1H1NpucGuMyPPtgZhZndWtwug0kCENeY4P_j1pNCTs48/edit?usp=sharing) | Перелік посад та працівників юридичної особи, якою є розпорядник |
 | [allStructure-002.csv](https://drive.google.com/file/d/111HFYLXHRNdUDnJ0ho_2SWHVsCXC-IfW/view?usp=sharing) | Описання структур для таблиць organizations, organizationalUnits та posts |
+
+## Набір данних: all-010
+
+<p align="center"><i> Фінансова звітність суб’єктів господарювання державного сектору економіки </i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| Form-2-StateBudgetFormatter.xls | Форма № 2д - Звіт про надходження та використання коштів загального фонду (державний бюджет) |
+| Form-2-LocalBudgetFormatter.xls | Форма № 2м - Звіт про надходження та використання коштів загального фонду (місцевий бюджет) |
+| Form-4-1-StateBudgetFormatter.xls | Форма № 4-1д - Звіт про надходження і використання коштів, отриманих як плата за послуги  (державний бюджет) |
+| Form-4-1-LocalBudgetFormatter.xls | Форма № 4-1м - Звіт про надходження і використання коштів, отриманих як плата за послуги  (місцевий бюджет) |
+| Form-4-2-StateBudgetFormatter.xls | Форма № 4-2д - Звіт про надходження і використання коштів, отриманих за іншими джерелами власних надходжень (державний бюджет) |
+| Form-4-2-LocalBudgetFormatter.xls | Форма № 4-2м - Звіт про надходження і використання коштів, отриманих за іншими джерелами власних надходжень (місцевий бюджет) |
+| Form-4-3-StateBudgetFormatter.xls | Форма № 4-3д - Звіт про надходження і використання інших надходжень спеціального фонду (державний бюджет) |
+| Form-4-3-LocalBudgetFormatter.xls | Форма № 4-3м - Звіт про надходження і використання інших надходжень спеціального фонду (місцевий бюджет) |
+| Form-4-3-1-StateBudgetFormatter.xls | Форма № 4-3.1д - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (державний бюджет) |
+| Form-4-3-1-LocalBudgetFormatter.xls | Форма № 4-3.1м - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (місцевий бюджет) |
+| Form-4-4-StateBudgetFormatter.xls | Форма № 4-4д - Звіт про надходження і використання коштів, отриманих на виконання програм соціально-економічного та культурного розвитку регіонів (державний бюджет) |
+| Form-4-7-StateBudgetFormatter.xls | Форма № 7д - Звіт про заборгованість за бюджетними коштами (державний бюджет) |
+| Form-4-7-LocalBudgetFormatter.xls | Форма № 7м - Звіт про заборгованість за бюджетними коштами (місцевий бюджет) |
+| Form-4-7-1-StateBudgetFormatter.xls | Форма № 7.1д - Звіт про заборгованість за окремими програмами (державний бюджет) |
+| Form-4-7-1-LocalBudgetFormatter.xls | Форма № 7.1м - Звіт про заборгованість за окремими програмами (державний бюджет) |
+| allStructureStateBudget-002.csv | <b>Описання структур для таблиць: </b> Form-2-StateBudgetFormatter.xls, Form-4-1-StateBudgetFormatter.xls, Form-4-2-StateBudgetFormatter.xls, Form-4-3-StateBudgetFormatter.xls, Form-4-3-1-StateBudgetFormatter.xls, Form-4-4-StateBudgetFormatter.xls, Form-7-StateBudgetFormatter.xls, Form-7-1-StateBudgetFormatter.xls |
+| allStructureLocalBudget-002.csv | <b>Описання структур для таблиць: </b> Form-2-LocalBudgetFormatter.xls, Form-4-1-LocalBudgetFormatter.xls, Form-4-2-LocalBudgetFormatter.xls, Form-4-3-LocalBudgetFormatter.xls, Form-4-3-1-LocalBudgetFormatter.xls, Form-7-LocalBudgetFormatter.xls, Form-7-1-LocalBudgetFormatter.xls |
 
