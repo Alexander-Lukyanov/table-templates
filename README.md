@@ -16,7 +16,7 @@
 
 <p align="center"><i>Довідник підприємств, установ (закладів) та організацій розпорядника інформації та підпорядкованих йому організацій</i></p>
 
-| Посилання на файли форматорів та структур | Короткий опис форматорів або файлів структур |
+| Посилання на файли форматорів<br>та структур | Короткий опис форматорів або файлів структур |
 | ------ | ------ |
 | [referenceBookFormatter.xls](https://docs.google.com/spreadsheets/d/1eAh-_koPnNYcVyWxoHeREJ2RriofUHrei-H5EnkQ82Q/edit?usp=sharing) | Відомості про підприємства, установи (заклади), організації або структурні підрозділи розпорядни-ка інформації |
 | [allStructure-001.csv](https://drive.google.com/file/d/1Ed_nrsFjcmQ8Lx2Epkm9WKpQ9Su4yKbP/view?usp=sharing) | Описання структури для таблиці referenceBook |
@@ -25,7 +25,7 @@
 
 <p align="center"><i>Інформація про організаційну структуру розпоря-дника інформації</i></p>
 
-| Посилання на файли форматорів та структур | Короткий опис форматорів або файлів структур |
+| Посилання на файли форматорів<br>та структур | Короткий опис форматорів або файлів структур |
 | ------ | ------ |
 | [organizationsFormatter.xls](https://docs.google.com/spreadsheets/d/1gMwDp1IuBFrxizrxYSfxI8q9lEhO8HudPm4PkWBr76M/edit?usp=sharing) | Перелік юридичних осіб, що підпорядковані розпо-ряднику та/або входять в його структуру |
 | [organizationalUnitsFormatter.xls](https://docs.google.com/spreadsheets/d/1B4OT9PL7tQm4TWHleg6Mfvf5ITcKL_eOE4IES9VvF88/edit?usp=sharing) | Перелік структурних підрозділів усіх рівнів, що входять до юридичної особи, якою є розпорядник |
