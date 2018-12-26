@@ -73,7 +73,7 @@
 
 | Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
-| [referenceBookFormatter.xls]( https://docs.google.com/spreadsheets/d/1Wo6MJVPfcHdkHWbFfbTGAA3gfS2NeUxRnlJY289qcXw/edit?usp=sharing) | Довідник власників, балансоутримувачів та користувачів об’єктів комунальної власності |
-| [registerFormatter.xls]( https://docs.google.com/spreadsheets/d/1Wo6MJVPfcHdkHWbFfbTGAA3gfS2NeUxRnlJY289qcXw/edit?usp=sharing) | Перелік об’єктів комунальної власності |
+| [referenceBookFormatter.xls](https://docs.google.com/spreadsheets/d/1Wo6MJVPfcHdkHWbFfbTGAA3gfS2NeUxRnlJY289qcXw/edit?usp=sharing) | Довідник власників, балансоутримувачів та користувачів об’єктів комунальної власності |
+| [registerFormatter.xls](https://docs.google.com/spreadsheets/d/1pEWPtdU9nPKYETPC-g1p5IwS4pmKefmSMSMu3afN1FE/edit?usp=sharing) | Перелік об’єктів комунальної власності |
 | [munStructure-002.csv]( https://drive.google.com/file/d/1W2x9vx0nz_tBQmoh5SZNnQYVab2auk8O/view?usp=sharing) | Описання структур для таблиць referenceBook і register |
 
