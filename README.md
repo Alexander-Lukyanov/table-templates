@@ -67,4 +67,13 @@
 | [listOfRegulatoryActsFormatter.xls]( https://docs.google.com/spreadsheets/d/1yGniQiJhagiOCI2WfspLF_rPW_Zys2hZSq6PaYnNl-Q/edit?usp=sharing) | Таблиця, що містить перелік діючих регуляторних актів розпорядника із зазначенням інформації про нормативно-правові акти, якими вони були введені в дію, а також інформації про базові, повторні та періодичні відстеження |
 | [allStructure-011.csv]( https://drive.google.com/file/d/1GbxCsfr95WymJeEByhbtKo3PXIRY59Xx/view?usp=sharing) | Описання структури для таблиці listOfRegulatoryActs |
 
+## Набір данних: mun-002
+
+<p align="center"><i>Перелік об’єктів комунальної власності</i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [referenceBookFormatter.xls]( https://docs.google.com/spreadsheets/d/1Wo6MJVPfcHdkHWbFfbTGAA3gfS2NeUxRnlJY289qcXw/edit?usp=sharing) | Довідник власників, балансоутримувачів та користувачів об’єктів комунальної власності |
+| [registerFormatter.xls]( https://docs.google.com/spreadsheets/d/1Wo6MJVPfcHdkHWbFfbTGAA3gfS2NeUxRnlJY289qcXw/edit?usp=sharing) | Перелік об’єктів комунальної власності |
+| [munStructure-002.csv]( https://drive.google.com/file/d/1W2x9vx0nz_tBQmoh5SZNnQYVab2auk8O/view?usp=sharing) | Описання структур для таблиць referenceBook і register |
 
