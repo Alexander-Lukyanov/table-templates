@@ -21,7 +21,8 @@
 - [<b>mun-003</b> - Набір данних: «Перелік об’єктів комунальної власності, що передані в оренду чи інше право користування»](#Набір-данних-mun-003)
 - [<b>mun-004</b> - Набір данних: «Перелік незадіяних земельних ділянок і майнових об’єктів комунальної власності, які можуть бути передані в користування»](#Набір-данних-mun-004)
 - [<b>mun-021</b> - Набір данних: «Перелік перевізників, що надають послуги пасажирського автомобільного транспорту, та маршрути перевезення»](#Набір-данних-mun-021)
-- [<b>mun-022</b> - Набір данних: «Відомості щодо транспортних засобів, які обслуговують пасажирські автобусні, тролейбусні та трамвайні маршрути перевезення](#Набір-данних-mun-022)
+- [<b>mun-022</b> - Набір данних: «Відомості щодо транспортних засобів, які обслуговують пасажирські автобусні, тролейбусні та трамвайні маршрути перевезення»](#Набір-данних-mun-022)
+- [<b>mun-023</b> - Набір данних: «Розклад руху громадського транспорту»](#Набір-данних-mun-023)
 
 ## Набір данних: all-001
 
@@ -123,4 +124,19 @@
 | ------ | ------ |
 | [vehiclesFormatter.xls](https://docs.google.com/spreadsheets/d/1t4HHtCDtaB0Cy8Of8-AqyPWAYm4SMXDx6A9yC-FkDhk/edit?usp=sharing) | Відомості щодо транспортних засобів, які обслуговують пасажирські автобусні, тролейбусні та трамвайні маршрути перевезення |
 | [munStructure-022.csv](https://drive.google.com/file/d/1gZyzVDyV4WXSk70StyBHU0iFljuqWBL1/view?usp=sharing) | Описання структури для таблиці vehicles |
+
+## Набір данних: mun-023
+
+<p align="center"><i>Розклад руху громадського транспорту</i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [agencyFormatter.xls](https://docs.google.com/spreadsheets/d/1fDfFhvbAbf4nBkoyLnHf9rGi2jCHsLxCwgvDaA_-ano/edit?usp=sharing) | Дані про суб’єктів господарювання, що надають послуги громадського транспорту |
+| [stopsFormatter.xls](https://docs.google.com/spreadsheets/d/1AP5OIuOp0sLMiEiKzrB6qDllM0Yif05Xzti7Mj7W20w/edit?usp=sharing) | Дані про зупинки громадського транспорту |
+| [routesFormatter.xls](https://docs.google.com/spreadsheets/d/1d_GKRYCcNF1ygUj_oP8EMvWBUb9D2mxBbMgxTSdDn3Y/edit?usp=sharing) | Дані про маршрути громадського транспорту |
+| [tripsFormatter.xls](https://docs.google.com/spreadsheets/d/19lWQKBWrHjfJK2VMJF473eZ-wMzl7UL1KOOWN1B7_as/edit?usp=sharing) | Дані про рейси громадського транспорту |
+| [stop_timesFormatter.xls](https://docs.google.com/spreadsheets/d/1f4z-BhG6ns8tR6Ie_jCzUZom0lJs7aVSvAZqoTdAgrY/edit?usp=sharing) | Графік відбуття та прибуття транспорту до та від зупинок |
+| [calendarFormatter.xls](https://docs.google.com/spreadsheets/d/1fEv76gw4FQX1HN8YUAq4oBn5wlpmeXmHbGBPXUIEQYI/edit?usp=sharing) | Варіанти тижневих графіків роботи громадського транспорту |
+| [calendar_datesFormatter.xls](https://docs.google.com/spreadsheets/d/15BBo8yhzembOCSb9YQHviPP_sNxmNxeTyS8Qkmd4gtA/edit?usp=sharing) | Перелік винятків до тижневих графіків |
+| [munStructure-023.csv](https://drive.google.com/file/d/1eZc433pQnkBt_tESaTFSQFB4k_9UtfAj/view?usp=sharing) | Описання структур для таблиць agency, stops, routes, trips, stop_times, calendar, та calendar_dates |
 
