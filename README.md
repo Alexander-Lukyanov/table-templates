@@ -172,6 +172,7 @@
 | [addendumsFormatter.xls](https://docs.google.com/spreadsheets/d/1XgHtCL_UpMEIZ4I3Fi826XOG4yhTYM-RqBmrvHnVa-0/edit?usp=sharing) | Відомості щодо додаткових угод до договорів, які були укладені розпорядниками даних |
 | [actsFormatter.xls](https://docs.google.com/spreadsheets/d/10JtkEIpfjbEWxZxeS_CwKeBAYyNLR4irHtMlytAMeQ4/edit?usp=sharing) | Відомості щодо актів та накладних до договорів, які були укладені розпорядниками даних |
 | [penyFormatter.xls](https://docs.google.com/spreadsheets/d/1dKzqVXA_tJ7FCI0Hex-55mFkwXtyE9sL8aDn6dye5a4/edit?usp=sharing) | Відомості по штрафних санкціях щодо договорів, які були укладені розпорядниками даних |
-| [SpecificationFormatter.xls](https://docs.google.com/spreadsheets/d/14RdSI6w8DW-uz5pgD5azC6db-vMpSFzt4v6KnjthYoY/edit?usp=sharing) | Відомості по специфікаціям до договорів, які були укладені розпорядниками даних (використовуються тільки для пакетного (багаточисельного) завантаження специфікацій на портал spending.gov.ua |
+| paymentsFormatter.xls | Таблиця, що містить відомості про планові і фактичні надходження за договорами оренди комунального майна |
+| [specificationFormatter.xls](https://docs.google.com/spreadsheets/d/14RdSI6w8DW-uz5pgD5azC6db-vMpSFzt4v6KnjthYoY/edit?usp=sharing) | Відомості по специфікаціям до договорів, які були укладені розпорядниками даних (використовуються тільки для пакетного (багаточисельного) завантаження специфікацій на портал spending.gov.ua |
 | [munStructure-027.csv](https://drive.google.com/file/d/1nF_FPoPiCQmFmZG1YHc_2UaaXNJAiTaf/view?usp=sharing) | Описання структур для таблиць contracts, addendums, acts та peny |
 
