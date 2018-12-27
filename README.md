@@ -23,6 +23,7 @@
 - [<b>mun-021</b> - Набір данних: «Перелік перевізників, що надають послуги пасажирського автомобільного транспорту, та маршрути перевезення»](#Набір-данних-mun-021)
 - [<b>mun-022</b> - Набір данних: «Відомості щодо транспортних засобів, які обслуговують пасажирські автобусні, тролейбусні та трамвайні маршрути перевезення»](#Набір-данних-mun-022)
 - [<b>mun-023</b> - Набір данних: «Розклад руху громадського транспорту»](#Набір-данних-mun-023)
+- [<b>mun-024</b> - Набір данних: «Дані про місце розміщення зупинок міського електро- та автомобільного транспорту»](#Набір-данних-mun-024)
 
 ## Набір данних: all-001
 
@@ -139,4 +140,13 @@
 | [calendarFormatter.xls](https://docs.google.com/spreadsheets/d/1fEv76gw4FQX1HN8YUAq4oBn5wlpmeXmHbGBPXUIEQYI/edit?usp=sharing) | Варіанти тижневих графіків роботи громадського транспорту |
 | [calendar_datesFormatter.xls](https://docs.google.com/spreadsheets/d/15BBo8yhzembOCSb9YQHviPP_sNxmNxeTyS8Qkmd4gtA/edit?usp=sharing) | Перелік винятків до тижневих графіків |
 | [munStructure-023.csv](https://drive.google.com/file/d/1eZc433pQnkBt_tESaTFSQFB4k_9UtfAj/view?usp=sharing) | Описання структур для таблиць agency, stops, routes, trips, stop_times, calendar, та calendar_dates |
+
+## Набір данних: mun-024
+
+<p align="center"><i> Дані про місце розміщення зупинок міського електро- та автомобільного транспорту </i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [stopsFormatter.xls](https://docs.google.com/spreadsheets/d/16wQxmSHN05Sl53aRW6rdYocrRKta-kIlCyIhbNSL76w/edit?usp=sharing) | Дані про місце розміщення зупинок міського електро- та автомобільного транспорту |
+| [munStructure-024.csv](https://drive.google.com/file/d/1QemIe8Try4A3WZAd8epSxHvhwliraVph/view?usp=sharing) | Описання структури для таблиці stops |
 
