@@ -25,6 +25,7 @@
 - [<b>mun-023</b> - Набір данних: «Розклад руху громадського транспорту»](#Набір-данних-mun-023)
 - [<b>mun-024</b> - Набір данних: «Дані про місце розміщення зупинок міського електро- та автомобільного транспорту»](#Набір-данних-mun-024)
 - [<b>mun-026</b> - Набір данних: «Перелік земельних ділянок, що пропонуються для здійснення забудови»](#Набір-данних-mun-026)
+- [<b>mun-027</b> - Набір данних: «Перелік укладених договорів, укладені договори, інші правочини, додатки, додаткові угоди та інші матеріали до них»](#Набір-данних-mun-027)
 
 ## Набір данних: all-001
 
@@ -160,4 +161,17 @@
 | landLotsFormatter.xls | Перелік земельних ділянок, що пропонуються для здійснення забудови |
 | auctionsFormatter.xls | Перелік земельних аукціонів |
 | munStructure-026.csv | Описання структур для таблиць landLots та auctions |
+
+## Набір данних: mun-027
+
+<p align="center"><i>Перелік земельних ділянок, що пропонуються для здійснення забудови</i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [contractsFormatter.xls](https://docs.google.com/spreadsheets/d/1NnTYus27Kq5P-TfZO86fdjU-Se2OTJnEA9xC4u0vbv0/edit?usp=sharing) | Відомості щодо договорів, які були укладені розпорядниками даних |
+| [addendumsFormatter.xls](https://docs.google.com/spreadsheets/d/1XgHtCL_UpMEIZ4I3Fi826XOG4yhTYM-RqBmrvHnVa-0/edit?usp=sharing) | Відомості щодо додаткових угод до договорів, які були укладені розпорядниками даних |
+| [actsFormatter.xls](https://docs.google.com/spreadsheets/d/10JtkEIpfjbEWxZxeS_CwKeBAYyNLR4irHtMlytAMeQ4/edit?usp=sharing) | Відомості щодо актів та накладних до договорів, які були укладені розпорядниками даних |
+| [penyFormatter.xls](https://docs.google.com/spreadsheets/d/1dKzqVXA_tJ7FCI0Hex-55mFkwXtyE9sL8aDn6dye5a4/edit?usp=sharing) | Відомості по штрафних санкціях щодо договорів, які були укладені розпорядниками даних |
+| [SpecificationFormatter.xls](https://docs.google.com/spreadsheets/d/14RdSI6w8DW-uz5pgD5azC6db-vMpSFzt4v6KnjthYoY/edit?usp=sharing) | Відомості по специфікаціям до договорів, які були укладені розпорядниками даних (використовуються тільки для пакетного (багаточисельного) завантаження специфікацій на портал spending.gov.ua |
+| [munStructure-027.csv](https://drive.google.com/file/d/1nF_FPoPiCQmFmZG1YHc_2UaaXNJAiTaf/view?usp=sharing) | Описання структур для таблиць contracts, addendums, acts та peny |
 
