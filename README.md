@@ -63,8 +63,8 @@
 | [forma4_2mFormatter.xls](https://docs.google.com/spreadsheets/d/1VYmXVLkupQnjOM-76Fji8HvFfm72IVfNmJcBay03dQo/edit?usp=sharing) | Форма № 4-2м - Звіт про надходження і використання коштів, отриманих за іншими джерелами власних надходжень (місцевий бюджет) |
 | [forma4_3dFormatter.xls](https://docs.google.com/spreadsheets/d/17t7r3ewlwnPCD3OdqC1ZcTH01IZ4Zq7Vt2jZNL7r1Uw/edit?usp=sharing) | Форма № 4-3д - Звіт про надходження і використання інших надходжень спеціального фонду (державний бюджет) |
 | [forma4_3mFormatter.xls](https://docs.google.com/spreadsheets/d/140NuJfTI6-_l3qe14ZYAI8auQTLf8jFqqCW-ATZPIFw/edit?usp=sharing) | Форма № 4-3м - Звіт про надходження і використання інших надходжень спеціального фонду (місцевий бюджет) |
-| forma4_3_1dFormatter.xls | Форма № 4-3.1д - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (державний бюджет) |
-| forma4_3_1mFormatter.xls | Форма № 4-3.1м - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (місцевий бюджет) |
+| [forma4_3_1dFormatter.xls](https://docs.google.com/spreadsheets/d/1IqNXW5Si1jtLvKGQ9RkOaujXve0Y_4jgWxwBN97COjo/edit?usp=sharing) | Форма № 4-3.1д - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (державний бюджет) |
+| [forma4_3_1mFormatter.xls](https://docs.google.com/spreadsheets/d/1_oBzTg4XL43cGhwaaoG5qA-XqFI8AvR_A6xGjIJ_-0U/edit?usp=sharing) | Форма № 4-3.1м - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (місцевий бюджет) |
 | forma4_4dFormatter.xls | Форма № 4-4д - Звіт про надходження і використання коштів, отриманих на виконання програм соціально-економічного та культурного розвитку регіонів (державний бюджет) |
 | forma7dFormatter.xls | Форма № 7д - Звіт про заборгованість за бюджетними коштами (державний бюджет) |
 | forma7mFormatter.xls | Форма № 7м - Звіт про заборгованість за бюджетними коштами (місцевий бюджет) |
