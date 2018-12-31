@@ -70,8 +70,8 @@
 | [forma7mFormatter.xls](https://docs.google.com/spreadsheets/d/1atqU9XhO0Ve8AavbD90ZwuJfJ-pK-0jWPuSd11lDIAY/edit?usp=sharing) | Форма № 7м - Звіт про заборгованість за бюджетними коштами (місцевий бюджет) |
 | [forma7_1dFormatter.xls](https://docs.google.com/spreadsheets/d/1jMXNSIpoEdtLSewalk_6jBebTKsk0pPvJjGklZKP4L4/edit?usp=sharing) | Форма № 7д.1 - Звіт про заборгованість за окремими програмами (державний бюджет) |
 | [forma7_1mFormatter.xls](https://docs.google.com/spreadsheets/d/1wrNBy0hX0pBllnsfqDG6-8w-WIxLZ8GtN-UpOf6gSqI/edit?usp=sharing) | Форма № 7м.1 - Звіт про заборгованість за окремими програмами (державний бюджет) |
-| allStructureStateBudget-010.csv | <b>Описання структур для таблиць:</b> forma2dFormatter.xls, forma4_2dFormatter.xls, forma4_2dFormatter.xls, forma4_3dFormatter.xls, forma4_3_1dFormatter.xls, forma4_4dFormatter.xls, forma7dFormatter.xls, forma7_1dFormatter.xls |
-| allStructureLocalBudget-010.csv | <b>Описання структур для таблиць:</b> forma2mFormatter.xls, forma4_2mFormatter.xls, forma4_2mFormatter.xls, forma4_3mFormatter.xls, forma4_3_1mFormatter.xls, forma7mFormatter.xls, forma7_1mFormatter.xls |
+| [allStructureStateBudget-010.csv](https://drive.google.com/file/d/1w6lC3deC0cfwq1F-hzaoXn1ZJxQNbEsl/view?usp=sharing) | <b>Описання структур для таблиць:</b> forma2dFormatter.xls, forma4_2dFormatter.xls, forma4_2dFormatter.xls, forma4_3dFormatter.xls, forma4_3_1dFormatter.xls, forma4_4dFormatter.xls, forma7dFormatter.xls, forma7_1dFormatter.xls |
+| [allStructureLocalBudget-010.csv](https://drive.google.com/file/d/1piRVc2gUMjopVW0fpmL0k46NQkPZUnED/view?usp=sharing) | <b>Описання структур для таблиць:</b> forma2mFormatter.xls, forma4_2mFormatter.xls, forma4_2mFormatter.xls, forma4_3mFormatter.xls, forma4_3_1mFormatter.xls, forma7mFormatter.xls, forma7_1mFormatter.xls |
 
 ## Набір данних: all-011
 
