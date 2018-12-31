@@ -66,8 +66,8 @@
 | [forma4_3_1dFormatter.xls](https://docs.google.com/spreadsheets/d/1IqNXW5Si1jtLvKGQ9RkOaujXve0Y_4jgWxwBN97COjo/edit?usp=sharing) | Форма № 4-3.1д - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (державний бюджет) |
 | [forma4_3_1mFormatter.xls](https://docs.google.com/spreadsheets/d/1_oBzTg4XL43cGhwaaoG5qA-XqFI8AvR_A6xGjIJ_-0U/edit?usp=sharing) | Форма № 4-3.1м - Звіт про надходження і використання інших надходжень спеціального фонду (позики міжнародних фінансових організацій) (місцевий бюджет) |
 | [forma4_4dFormatter.xls](https://docs.google.com/spreadsheets/d/1cdV2Ql8uPy32X9x3wjPtVnSLeud2bycD3fMuovYXsgc/edit?usp=sharing) | Форма № 4-4д - Звіт про надходження і використання коштів, отриманих на виконання програм соціально-економічного та культурного розвитку регіонів (державний бюджет) |
-| forma7dFormatter.xls | Форма № 7д - Звіт про заборгованість за бюджетними коштами (державний бюджет) |
-| forma7mFormatter.xls | Форма № 7м - Звіт про заборгованість за бюджетними коштами (місцевий бюджет) |
+| [forma7dFormatter.xls](https://docs.google.com/spreadsheets/d/1_yAbwyFBur7yXn0iUWs3c9PY3k2LaVZ1ysiP0VkcPyk/edit?usp=sharing) | Форма № 7д - Звіт про заборгованість за бюджетними коштами (державний бюджет) |
+| [forma7mFormatter.xls](https://docs.google.com/spreadsheets/d/1atqU9XhO0Ve8AavbD90ZwuJfJ-pK-0jWPuSd11lDIAY/edit?usp=sharing) | Форма № 7м - Звіт про заборгованість за бюджетними коштами (місцевий бюджет) |
 | forma7_1dFormatter.xls | Форма № 7.1д - Звіт про заборгованість за окремими програмами (державний бюджет) |
 | forma7_1mFormatter.xls | Форма № 7.1м - Звіт про заборгованість за окремими програмами (державний бюджет) |
 | allStructureStateBudget-010.csv | <b>Описання структур для таблиць:</b> forma2dFormatter.xls, forma4_2dFormatter.xls, forma4_2dFormatter.xls, forma4_3dFormatter.xls, forma4_3_1dFormatter.xls, forma4_4dFormatter.xls, forma7dFormatter.xls, forma7_1dFormatter.xls |
