@@ -118,7 +118,7 @@
 
 | Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
-| [titleListsFormatter.xls](https://docs.google.com/spreadsheets/d/1VaZO2EspsO7I6839Gleid4pcwXrvZHCjzkx-0HtVEfI/edit?usp=sharing) | Титульні списки на проведення капітального та поточного ремонту, будівництва, реконструкції та благоустрою |
+| [ titleListsFormatter.xls ](https://docs.google.com/spreadsheets/d/1VaZO2EspsO7I6839Gleid4pcwXrvZHCjzkx-0HtVEfI/edit?usp=sharing) | Титульні списки на проведення капітального та поточного ремонту, будівництва, реконструкції та благоустрою |
 | [munStructure-012.csv](https://drive.google.com/file/d/1Si3z5XjdbhZr4_di2TPhMPzHBe9KzF6T/view?usp=sharing) | Описання структури для таблиці TitleLists |
 
 ## Набір данних: mun-021
