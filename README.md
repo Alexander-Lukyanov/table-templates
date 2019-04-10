@@ -285,7 +285,7 @@
 
 <p align="center"><i>Перелік розпорядників бюджетних коштів</i></p>
 
-| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
 | [spendingUnitsFormatter.xls](https://docs.google.com/spreadsheets/d/1Wnz2IrVWHTw1MKqoCwMUQkd5kN-6W20U4F8X0JWzht4/edit?usp=sharing) | Відомості про розпорядників та одержувачів коштів місцевих бюджетів |
 | [munStructure-051.csv](https://drive.google.com/file/d/1BQQCgaWQUANjEO21v34VotFN4a_Ly2cl/view?usp=sharing) | Описання структури для таблиці SpendingUnits |
