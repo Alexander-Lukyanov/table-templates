@@ -253,7 +253,7 @@
 
 <p align="center"><i>Дані про видані будівельні паспорти</i></p>
 
-| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
 | [constructionPassportsFormatter.xls](https://docs.google.com/spreadsheets/d/1yyFKPomkMyLtlFr4QeNEVdfSnxbxNV0mWDrCkjaVwFc/edit?usp=sharing) | Відомості про видані будівельні паспорти для забудови земельних ділянок |
 | [munStructure-044.csv](https://drive.google.com/file/d/1xDf1iXOBuYyltI5xhIXELU9z8F1QfEev/view?usp=sharing) | Описання структури для таблиці ConstructionPassports |
