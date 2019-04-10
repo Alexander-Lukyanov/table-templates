@@ -33,6 +33,7 @@
 - [<b>mun-027</b> - Набір данних: «Перелік укладених договорів, укладені договори, інші правочини, додатки, додаткові угоди та інші матеріали до них»](#Набір-данних-mun-027)
 - [<b>mun-028</b> - Набір данних: «Актуальні списки власників та орендарів місцевих земельних ділянок»](#Набір-данних-mun-028)
 - [<b>mun-034</b> - Набір данних: «Дані про надані містобудівні умови та обмеження»](#Набір-данних-mun-034)
+- [<b>mun-035</b> - Набір данних: «Дані про зовнішню доступність інфраструктурних об'єктів для маломобільних груп населення»](#Набір-данних-mun-035)
 
 ## Набір данних: all-001
 
@@ -236,3 +237,13 @@
 | ------ | ------ |
 | [TownPlanningConditionsFormatter.xls](https://docs.google.com/spreadsheets/d/1BPApEkilu6DhAoNmtVEAF5LeGjPXHzEo6j-DPrQZiko/edit?usp=sharing) | Дані про надані містобудівні умови та обмеження |
 | [munStructure-034.csv](https://drive.google.com/file/d/1u4CvXvx1W7KXO1XnX-AksT9o6LvKm0jQ/view?usp=sharing) | Описання структури для таблиці TownPlanningConditions |
+
+## Набір данних: mun-035
+
+<p align="center"><i>Дані про зовнішню доступність інфраструктурних об'єктів для маломобільних груп населення</i></p>
+
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [custodarianFormatter.xls](https://docs.google.com/spreadsheets/d/12nm0hHqPbtqwy2oM6mM9ZbkNvWHSMnxId3AH2Rjn33Q/edit?usp=sharing) | Відомості щодо інфраструктурних об'єктів в межах яких розміщені засоби зовнішньої доступності |
+| [accessibilityToolsFormatter.xls](https://docs.google.com/spreadsheets/d/1azasOhIgvMOcwmdoo08dAghAcbATDm3pH5vQ0P-R5eI/edit?usp=sharing) | Відомості про засоби зовнішньої доступності та оснащені ними елементи інфраструктурних об'єктів |
+| [munStructure-035.csv](https://drive.google.com/file/d/1HTUDlytbQS2buPAIOMJqikKZDw02Jc_3/view?usp=sharing) | Описання структур для таблиць Custodarian та AccessibilityTools |
