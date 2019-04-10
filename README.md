@@ -36,6 +36,7 @@
 - [<b>mun-035</b> - Набір данних: «Дані про зовнішню доступність інфраструктурних об'єктів для маломобільних груп населення»](#Набір-данних-mun-035)
 - [<b>mun-044</b> - Набір данних: «Дані про видані будівельні паспорти»](#Набір-данних-mun-044)
 - [<b>mun-049</b> - Набір данних: «Перелік бюджетних програм, у тому числі, посилання на оприлюднені ресурси в мережі Інтернет»](#Набір-данних-mun-049)
+- [<b>mun-050</b> - Набір данних: «ППерелік цільових програм, у тому числі, посилання на оприлюднені ресурси в мережі Інтернет»](#Набір-данних-mun-050)
 
 ## Набір данних: all-001
 
@@ -268,3 +269,13 @@
 | [budgetProgramsFormatter.xls](https://docs.google.com/spreadsheets/d/1oAMR1eAA9-6oUHeOBerYqz8GM8ruCDIvpjJinjR19Kg/edit?usp=sharing) | Відомості щодо назв бюджетних програм, їх сум фінансування, основних цілей, відповідальних виконавців, тощо |
 | [budgetRoutinesFormatter.xls](https://docs.google.com/spreadsheets/d/1SJ1L_CLrdT87jh_5iQJYPPXaRWV_E2gCxLfQ4TQx84c/edit?usp=sharing) | Відомості про підпрограми, які складають бюджетні програми і, в свою чергу, передбачають реалізацію одного або декількох завдань |
 | [munStructure-049.csv](https://drive.google.com/file/d/15SDVKNGOM7tJGIMbpuU-MBVUyZKwLAjQ/view?usp=sharing) | Описання структур для таблиць BudgetPrograms та BudgetRoutines |
+
+## Набір данних: mun-050
+
+<p align="center"><i>Перелік цільових програм, у тому числі, посилання на оприлюднені ресурси в мережі Інтернет</i></p>
+
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [targetProgramsFormatter.xls](https://docs.google.com/spreadsheets/d/1duPlEhl3IbMaNy_0SEyyQOZdqUav0WC8RJ3RrqBHgwo/edit?usp=sharing) | Відомості щодо назв цільових програм, фактично використаних на них сум, відповідальних виконавців, тощо |
+| [targetRoutinesFormatter.xls](https://docs.google.com/spreadsheets/d/1zc0-Y99c4Ybj0EIzgaAN27RvyMzr_DfS8nQkfAW7HOw/edit?usp=sharing) | Відомості про підпрограми, які складають цільові програми і, в свою чергу, передбачають ряд заходів для своєї реалізації |
+| [munStructure-050.csv](https://drive.google.com/file/d/1uCvCJKiILQ9ha5HD_hvme2pRafO1Ym2S/view?usp=sharing) | Описання структур для таблиць TargetPrograms та TargetRoutines |
