@@ -232,7 +232,7 @@
 
 <p align="center"><i>Дані про надані містобудівні умови та обмеження</i></p>
 
-| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
 | [TownPlanningConditionsFormatter.xls](https://docs.google.com/spreadsheets/d/1BPApEkilu6DhAoNmtVEAF5LeGjPXHzEo6j-DPrQZiko/edit?usp=sharing) | Дані про надані містобудівні умови та обмеження |
 | [munStructure-034.csv](https://drive.google.com/file/d/1u4CvXvx1W7KXO1XnX-AksT9o6LvKm0jQ/view?usp=sharing) | Описання структури для таблиці TownPlanningConditions |
