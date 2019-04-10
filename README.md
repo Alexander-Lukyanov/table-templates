@@ -37,6 +37,7 @@
 - [<b>mun-044</b> - Набір данних: «Дані про видані будівельні паспорти»](#Набір-данних-mun-044)
 - [<b>mun-049</b> - Набір данних: «Перелік бюджетних програм, у тому числі, посилання на оприлюднені ресурси в мережі Інтернет»](#Набір-данних-mun-049)
 - [<b>mun-050</b> - Набір данних: «Перелік цільових програм, у тому числі, посилання на оприлюднені ресурси в мережі Інтернет»](#Набір-данних-mun-050)
+- [<b>mun-051</b> - Набір данних: «Перелік розпорядників бюджетних коштів»](#Набір-данних-mun-051)
 
 ## Набір данних: all-001
 
@@ -279,3 +280,12 @@
 | [targetProgramsFormatter.xls](https://docs.google.com/spreadsheets/d/1duPlEhl3IbMaNy_0SEyyQOZdqUav0WC8RJ3RrqBHgwo/edit?usp=sharing) | Відомості щодо назв цільових програм, фактично використаних на них сум, відповідальних виконавців, тощо |
 | [targetRoutinesFormatter.xls](https://docs.google.com/spreadsheets/d/1zc0-Y99c4Ybj0EIzgaAN27RvyMzr_DfS8nQkfAW7HOw/edit?usp=sharing) | Відомості про підпрограми, які складають цільові програми і, в свою чергу, передбачають ряд заходів для своєї реалізації |
 | [munStructure-050.csv](https://drive.google.com/file/d/1uCvCJKiILQ9ha5HD_hvme2pRafO1Ym2S/view?usp=sharing) | Описання структур для таблиць TargetPrograms та TargetRoutines |
+
+## Набір данних: mun-051
+
+<p align="center"><i>Перелік розпорядників бюджетних коштів</i></p>
+
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [spendingUnitsFormatter.xls](https://docs.google.com/spreadsheets/d/1Wnz2IrVWHTw1MKqoCwMUQkd5kN-6W20U4F8X0JWzht4/edit?usp=sharing) | Відомості про розпорядників та одержувачів коштів місцевих бюджетів |
+| [munStructure-051.csv](https://drive.google.com/file/d/1BQQCgaWQUANjEO21v34VotFN4a_Ly2cl/view?usp=sharing) | Описання структури для таблиці SpendingUnits |
