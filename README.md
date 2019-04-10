@@ -126,7 +126,7 @@
 
 <p align="center"><i>Дані про об'єкти та засоби торгівлі</i></p>
 
-| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
 | [storesFormatter.xls](https://docs.google.com/spreadsheets/d/1Olt21KInuQAZaRVUC87Siwi1vz2NCuQTj96ZikjMIF8/edit?usp=sharing) | Дані про об'єкти та засоби торгівлі |
 | [munStructure-016.csv](https://drive.google.com/file/d/1zFlgDn3Z-CDKxPyaWzVLGrexnsxrOEYl/view?usp=sharing) | Описання структури для таблиці Stores |
