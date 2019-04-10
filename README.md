@@ -34,6 +34,7 @@
 - [<b>mun-028</b> - Набір данних: «Актуальні списки власників та орендарів місцевих земельних ділянок»](#Набір-данних-mun-028)
 - [<b>mun-034</b> - Набір данних: «Дані про надані містобудівні умови та обмеження»](#Набір-данних-mun-034)
 - [<b>mun-035</b> - Набір данних: «Дані про зовнішню доступність інфраструктурних об'єктів для маломобільних груп населення»](#Набір-данних-mun-035)
+- [<b>mun-044</b> - Набір данних: «Дані про видані будівельні паспорти»](#Набір-данних-mun-044)
 
 ## Набір данних: all-001
 
@@ -247,3 +248,12 @@
 | [custodarianFormatter.xls](https://docs.google.com/spreadsheets/d/12nm0hHqPbtqwy2oM6mM9ZbkNvWHSMnxId3AH2Rjn33Q/edit?usp=sharing) | Відомості щодо інфраструктурних об'єктів в межах яких розміщені засоби зовнішньої доступності |
 | [accessibilityToolsFormatter.xls](https://docs.google.com/spreadsheets/d/1azasOhIgvMOcwmdoo08dAghAcbATDm3pH5vQ0P-R5eI/edit?usp=sharing) | Відомості про засоби зовнішньої доступності та оснащені ними елементи інфраструктурних об'єктів |
 | [munStructure-035.csv](https://drive.google.com/file/d/1HTUDlytbQS2buPAIOMJqikKZDw02Jc_3/view?usp=sharing) | Описання структур для таблиць Custodarian та AccessibilityTools |
+
+## Набір данних: mun-044
+
+<p align="center"><i>Дані про видані будівельні паспорти</i></p>
+
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [constructionPassportsFormatter.xls](https://docs.google.com/spreadsheets/d/1yyFKPomkMyLtlFr4QeNEVdfSnxbxNV0mWDrCkjaVwFc/edit?usp=sharing) | Відомості про видані будівельні паспорти для забудови земельних ділянок |
+| [munStructure-044.csv](https://drive.google.com/file/d/1xDf1iXOBuYyltI5xhIXELU9z8F1QfEev/view?usp=sharing) | Описання структури для таблиці ConstructionPassports |
