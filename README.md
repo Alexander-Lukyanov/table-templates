@@ -16,6 +16,8 @@
 - [<b>all-003</b> - Набір даних: «Нормативи, що затверджуються та підлягають оприлюдненню відповідно до закону розпорядником інформації»](#Набір-даних-all-003)<br>
 - [<b>all-005</b> - Набір даних: «Звіти, в тому числі щодо задоволення запитів на інформацію»](#Набір-даних-all-005)<br>
 - [<b>all-006</b> - Набір даних: «Інформація про систему обліку, види інформації, яка зберігається розпорядником»](#Набір-даних-all-006)<br>
+- [<b>all-007</b> - Набір даних: «Реєстр наборів даних, що перебувають у володінні розпорядника інформації»](#Набір-даних-all-007)<br>
+- [<b>all-009(1)</b> - Набір даних: «Нормативно-правові акти, акти індивідуальної дії, проекти рішень, інформація про здійснення державної регуляторної політики»](#Набір-даних-all-009(1))<br>
 - [<b>all-010</b> - Набір даних: «Фінансова звітність суб’єктів господарювання державного сектору економіки»](#Набір-даних-all-010)<br>
 - [<b>all-011</b> - Набір даних: «Переліки регуляторних актів із зазначенням дати набрання чинності, строку проведення базового, повторного та періодичного їх відстеження»](#Набір-даних-all-011)<br>
 
@@ -88,6 +90,26 @@
 | ------ | ------ |
 | [publicInfoFormatter.xls](https://docs.google.com/spreadsheets/d/1DWtd01Aun4Z-c8YLxO889uYWAsm4CVusLZp95GUoh6s/edit?usp=sharing) | Основні відомості про систему обліку та види інформації, що зберігається розпорядником |
 | [allStructure-006.csv](https://drive.google.com/file/d/12Mi-wNGkmKYjSYpemDanvRrm8JTOXaQa/view?usp=sharing) | Описання структури для таблиці publicInfo |
+
+## Набір даних: all-007
+
+<p align="center"><i>Реєстр наборів даних, що перебувають у володінні розпорядника інформації</i></p>
+
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [registerFormatter.xls](https://docs.google.com/spreadsheets/d/1KBmwSBuLWy8cSQ2jgbO4qqCRPknjmzhb_njj1K23Sj4/edit?usp=sharing) | Основні відомості про набори даних, що перебувають у володінні розпорядника інформації |
+| [allStructure-007.csv](https://drive.google.com/file/d/12Mi-wNGkmKYjSYpemDanvRrm8JTOXaQa/view?usp=sharing) | Описання структури для таблиці register |
+
+## Набір даних: all-009(1)
+
+<p align="center"><i>Нормативно-правові акти, акти індивідуальної дії, проекти рішень, інформація про здійснення державної регуляторної політики</i></p>
+
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [legalActsFormatter.xls](https://docs.google.com/spreadsheets/d/1PoeZJS7L6MQReKSTzKJ_LMzKoXs9PsZXT-389BrvhGk/edit?usp=sharing) | Перелік нормативно-правових актів та актів індивідуальної дії |
+| [projectsFormatter.xls](https://docs.google.com/spreadsheets/d/1_1LIjYtIBzL4idrpRxA72OWK0D8QIILjOWpztCNIH6A/edit?usp=sharing) | Перелік проектів рішень щодо нормативно-правових актів та актів індивідуальної дії |
+| [rerulatoryDocsFormatter.xls](https://docs.google.com/spreadsheets/d/1rksIyWLkXDifxzhirng8CFwtCF1zYeHKz_kKiKwJxU4/edit?usp=sharing) | Перелік документів, підготовлених у процесі здійснення регуляторної діяльності |
+| [allStructure-009(1).csv](https://drive.google.com/file/d/1LaHpNNFsK6e28y6mpdRhOM4qH0Ag0may/view?usp=sharing) | Описання структур для таблиць legalActs, projects та rerulatoryDocs |
 
 ## Набір даних: all-010
 
