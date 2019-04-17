@@ -13,6 +13,9 @@
 
 - [<b>all-001</b> - Набір даних: «Довідник підприємств, установ (закладів) та організацій розпорядника інформації та підпорядкованих йому організацій»](#Набір-даних-all-001)<br>
 - [<b>all-002</b> - Набір даних: «Інформація про організаційну структуру розпорядника інформації»](#Набір-даних-all-002)<br>
+- [<b>all-003</b> - Набір даних: «Нормативи, що затверджуються та підлягають оприлюдненню відповідно до закону розпорядником інформації»](#Набір-даних-all-003)<br>
+- [<b>all-005</b> - Набір даних: «Звіти, в тому числі щодо задоволення запитів на інформацію»](#Набір-даних-all-005)<br>
+- [<b>all-006</b> - Набір даних: «Інформація про систему обліку, види інформації, яка зберігається розпорядником»](#Набір-даних-all-006)<br>
 - [<b>all-010</b> - Набір даних: «Фінансова звітність суб’єктів господарювання державного сектору економіки»](#Набір-даних-all-010)<br>
 - [<b>all-011</b> - Набір даних: «Переліки регуляторних актів із зазначенням дати набрання чинності, строку проведення базового, повторного та періодичного їх відстеження»](#Набір-даних-all-011)<br>
 
@@ -58,6 +61,33 @@
 | [organizationalUnitsFormatter.xls](https://docs.google.com/spreadsheets/d/1B4OT9PL7tQm4TWHleg6Mfvf5ITcKL_eOE4IES9VvF88/edit?usp=sharing) | Перелік структурних підрозділів усіх рівнів, що входять до юридичної особи, якою є розпорядник |
 | [postsFormatter.xls](https://docs.google.com/spreadsheets/d/1H1NpucGuMyPPtgZhZndWtwug0kCENeY4P_j1pNCTs48/edit?usp=sharing) | Перелік посад та працівників юридичної особи, якою є розпорядник |
 | [allStructure-002.csv](https://drive.google.com/file/d/111HFYLXHRNdUDnJ0ho_2SWHVsCXC-IfW/view?usp=sharing) | Описання структур для таблиць organizations, organizationalUnits та posts |
+
+## Набір даних: all-003
+
+<p align="center"><i>Нормативи, що затверджуються та підлягають оприлюдненню відповідно до закону розпорядником інформації</i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [normativesFormatter.xls](https://docs.google.com/spreadsheets/d/18KAz5fRRhXaxtqspdeOY0k_ANZjJKGdWBDt7ObpRorY/edit?usp=sharing) | Перелік, затверджених розпорядниками інформації, нормативів, що містить посилання на відповідні ресурси, оприлюднені в мережі Інтернет |
+| [allStructure-003.csv](https://drive.google.com/file/d/1D3VAz_IXHUDb5OZdXTVCNBVKK-s1Z96q/view?usp=sharing) | Описання структури для таблиці normatives |
+
+## Набір даних: all-005
+
+<p align="center"><i>Звіти, в тому числі щодо задоволення запитів на інформацію</i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [listOfReportsFormatter.xls](https://docs.google.com/spreadsheets/d/1gvoZHeJUJ5ieCmsAcfevWbnuANCgEdO9d2_Ai57EX6E/edit?usp=sharing) | Перелік звітів, в тому числі щодо задоволення запитів на інформацію |
+| [allStructure-005.csv](https://drive.google.com/file/d/1o-shZ9nDRSveigXStSnNX2Jmewi9bbwq/view?usp=sharing) | Описання структури для таблиці listOfReports |
+
+## Набір даних: all-006
+
+<p align="center"><i>Інформація про систему обліку, види інформації, яка зберігається розпорядником</i></p>
+
+| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| ------ | ------ |
+| [publicInfoFormatter.xls](https://docs.google.com/spreadsheets/d/1DWtd01Aun4Z-c8YLxO889uYWAsm4CVusLZp95GUoh6s/edit?usp=sharing) | Основні відомості про систему обліку та види інформації, що зберігається розпорядником |
+| [allStructure-006.csv](https://drive.google.com/file/d/12Mi-wNGkmKYjSYpemDanvRrm8JTOXaQa/view?usp=sharing) | Описання структури для таблиці publicInfo |
 
 ## Набір даних: all-010
 
