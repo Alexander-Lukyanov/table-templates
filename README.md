@@ -66,7 +66,7 @@
 
 <p align="center"><i>Нормативи, що затверджуються та підлягають оприлюдненню відповідно до закону розпорядником інформації</i></p>
 
-| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
 | [normativesFormatter.xls](https://docs.google.com/spreadsheets/d/18KAz5fRRhXaxtqspdeOY0k_ANZjJKGdWBDt7ObpRorY/edit?usp=sharing) | Перелік, затверджених розпорядниками інформації, нормативів, що містить посилання на відповідні ресурси, оприлюднені в мережі Інтернет |
 | [allStructure-003.csv](https://drive.google.com/file/d/1D3VAz_IXHUDb5OZdXTVCNBVKK-s1Z96q/view?usp=sharing) | Описання структури для таблиці normatives |
@@ -84,7 +84,7 @@
 
 <p align="center"><i>Інформація про систему обліку, види інформації, яка зберігається розпорядником</i></p>
 
-| Посилання на файли<br>форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
+| Посилання на файли форматорів та структур | Короткий опис таблиць форматорів або файлів структур |
 | ------ | ------ |
 | [publicInfoFormatter.xls](https://docs.google.com/spreadsheets/d/1DWtd01Aun4Z-c8YLxO889uYWAsm4CVusLZp95GUoh6s/edit?usp=sharing) | Основні відомості про систему обліку та види інформації, що зберігається розпорядником |
 | [allStructure-006.csv](https://drive.google.com/file/d/12Mi-wNGkmKYjSYpemDanvRrm8JTOXaQa/view?usp=sharing) | Описання структури для таблиці publicInfo |
