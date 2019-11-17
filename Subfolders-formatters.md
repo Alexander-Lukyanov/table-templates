@@ -226,7 +226,7 @@
 | ------ | ------ |
 ім'я підпапки |mun-005
 Імена та описи файлів всередині підпапки | <i>1. RadiationControlFormatter</i> - Файл Форматору, що містить результати радіаційного контролю<br><i>2. munStructure-005</i> - Описання структури для таблиці radiationControl
-Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення результатів радіаційного контролю](https://docs.google.com/document/d/1zG-gj4CiAUbKREF_emi272L7jDJB4xatL6-vo5ClCVs/edit?usp=sharing)
+Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення результатів радіаційного контролю](https://docs.google.com/document/d/1zG-gj4CiAUbKREF_emi272L7jDJB4xatL6-vo5ClCVs/edit#)
 
 ---
 
