@@ -454,7 +454,7 @@
 | ------ | ------ |
 ім'я підпапки |mun-036
 Імена та описи файлів всередині підпапки | <i>1. tariffsFormatter</i> - Файл Форматору, що містить всі дані про тарифи на комунальні послуги<br><i>2. munStructure-036</i> - Описання структури для таблиці tariffs
-Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про тарифи на комунальні послуги](https://docs.google.com/document/d/1Vghi92hRiKZm0cj5DR6jD7RJPRv9gXIXqScwqC3rthk/edit?usp=sharing)
+Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про тарифи на комунальні послуги](https://docs.google.com/document/d/1Vghi92hRiKZm0cj5DR6jD7RJPRv9gXIXqScwqC3rthk/edit#)
 
 ---
 
@@ -478,7 +478,7 @@
 | ------ | ------ |
 ім'я підпапки |mun-041
 Імена та описи файлів всередині підпапки | <i>1. operatorsFormatter</i> - Довідник операторів паркувальних майданчиків<br><i>2. parkingLotsFormatter</i> - Перелік майданчиків для паркування<br><i>3. munStructure-041</i> - Описання структур для таблиць operators та parkingLots
-Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про паркування](https://docs.google.com/document/d/16ubMhqQaxTsxwh1XRuvI7L_ExgjNRl_cc4iR__wsb7E/edit?usp=sharing)
+Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про паркування](https://docs.google.com/document/d/16ubMhqQaxTsxwh1XRuvI7L_ExgjNRl_cc4iR__wsb7E/edit#)
 
 ---
 
@@ -622,7 +622,7 @@
 | ------ | ------ |
 ім'я підпапки |mun-057
 Імена та описи файлів всередині підпапки | <i>1. permissionsFormatter</i> - Файл Форматору, що містить дані про видані дозволи на порушення об’єктів благоустрою<br><i>2. munStructure-057</i> - Описання структури для таблиці permissions
-Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про видані дозволи на порушення об’єктів благоустрою](https://docs.google.com/document/d/1yGOPLcv6ErGcYqFic8aDUvq6I-fz9KANS1QeAfjq__8/edit?usp=sharing)
+Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про видані дозволи на порушення об’єктів благоустрою](https://docs.google.com/document/d/1yGOPLcv6ErGcYqFic8aDUvq6I-fz9KANS1QeAfjq__8/edit#)
 
 ---
 
@@ -658,7 +658,7 @@
 | ------ | ------ |
 ім'я підпапки |mun-060
 Імена та описи файлів всередині підпапки | <i>1. resourcesFormatter</i> - Файл Форматору, що містить всі дані про споживання комунальних ресурсів<br><i>2. munStructure-060</i> - Описання структури для таблиці resources
-Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про споживання комунальних ресурсів](https://docs.google.com/document/d/1HFqmFzjikucugaHLeXByFmuKgIHp9YssoskVKq6DwB8/edit?usp=sharing)
+Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення даних про споживання комунальних ресурсів](https://docs.google.com/document/d/1HFqmFzjikucugaHLeXByFmuKgIHp9YssoskVKq6DwB8/edit#)
 
 ---
 
