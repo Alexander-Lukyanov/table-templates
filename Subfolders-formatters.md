@@ -250,7 +250,7 @@
 | ------ | ------ |
 ім'я підпапки |mun-013
 Імена та описи файлів всередині підпапки | <i>1. distributorsFormatter</i> - Довідник розповсюджувачів зовнішньої реклами<br><i>2. permissions1Formatter</i> - Перелік засобів зовнішньої реклами, розміщеної в межах населених пунктів<br><i>3. permissions2Formatter</i> - Перелік засобів зовнішньої реклами, розміщеної поза межами населених пунктів.<br><i>4. munStructure-013</i> - Описання структур для таблиць distributors, permissions1 та permissions2
-Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення інформації про рекламні засоби](https://docs.google.com/document/d/1JyXne9eMyN-FlR31uaxMpOSUfZwYrRlRJqTIxFVHL2Y/edit?usp=sharing)
+Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення інформації про рекламні засоби](https://docs.google.com/document/d/1JyXne9eMyN-FlR31uaxMpOSUfZwYrRlRJqTIxFVHL2Y/edit#)
 
 ---
 
@@ -490,7 +490,7 @@
 | ------ | ------ |
 ім'я підпапки |mun-042
 Імена та описи файлів всередині підпапки | <i>1. registerFormatter</i> - Файл Форматору, що містить всі дані адресного реєстру<br><i>2. munStructure-042</i> - Описання структури для таблиці register
-Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення інформації про адресний реєстр](https://docs.google.com/document/d/1Ue5swFbwDYYtiA7Lzk7fsF3SEPV5o2zkPopnn3tspQc/edit?usp=sharing)
+Рекомендації щодо оприлюднення набору даних | [Рекомендації щодо оприлюднення інформації про адресний реєстр](https://docs.google.com/document/d/1Ue5swFbwDYYtiA7Lzk7fsF3SEPV5o2zkPopnn3tspQc/edit#heading=h.4h4wi12as5x6)
 
 ---
 
