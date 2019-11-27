@@ -2,6 +2,8 @@
 
 ### Викладено на підставі [частини І](https://data.gov.ua/blog/proekt-rekomendatsi) і [частини ІІ](https://data.gov.ua/blog/proekt-rekomendatsii-2) <i>Рекомендацій щодо оприлюднення наборів відкритих даних органів місцевого самоврядування,</i> розроблених [ГО «Агенція журналістики даних»](https://datajournalism.agency/) у партнерстві з [проектом USAID / UK aid «Прозорість та підзвітність у державному управлінні та послугах»](http://tapas.org.ua/) та [Міністерством цифрової трансформації України](https://thedigital.gov.ua/)
 
+<p align="center"><b>Викладено на підставі <a href="https://data.gov.ua/blog/proekt-rekomendatsi" target="_blank">частини І</a> і <a href="https://data.gov.ua/blog/proekt-rekomendatsii-2" target="_blank">частини ІІ</a>  <i>Рекомендацій щодо оприлюднення наборів відкритих даних органів місцевого самоврядування,</i> розроблених <a href="https://datajournalism.agency/" target="_blank"> ГО «Агенція журналістики даних»</a> у партнерстві з <a href="http://tapas.org.ua" target="_blank"> проектом USAID / UK aid «Прозорість та підзвітність у державному управлінні та послугах»</a> та <a href="https://thedigital.gov.ua/" target="_blank"> Міністерством цифрової трансформації України</a></b></p>
+
 ---
 
 <p align="center"><b>ЗМІСТ</b></p>
