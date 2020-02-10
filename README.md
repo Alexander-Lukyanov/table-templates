@@ -1,6 +1,6 @@
 # ФОРМАТОРИ
 
-<p align="center"><b>Викладено на підставі <a href="https://data.gov.ua/blog/proekt-rekomendatsi" target="_blank">частини І</a> і <a href="https://data.gov.ua/blog/proekt-rekomendatsii-2" target="_blank">частини ІІ</a>  <i>Рекомендацій щодо оприлюднення наборів відкритих даних органів місцевого самоврядування,</i> розроблених <a href="https://datajournalism.agency/" target="_blank"> ГО «Агенція журналістики даних»</a> у партнерстві з <a href="http://tapas.org.ua" target="_blank"> проектом USAID / UK aid «Прозорість та підзвітність у державному управлінні та послугах»</a> та <a href="https://thedigital.gov.ua/" target="_blank"> Міністерством цифрової трансформації України</a></b></p>
+<p align="center"><b>Нижченаведена інструкція щодо використання розпорядниками інформації Форматорів, викладена на підставі <i><a href="https://data.gov.ua/pages/835-rec-index" target="_blank"> Рекомендацій для оприлюднення наборів відкритих даних</a></i>, розроблених <a href="https://thedigital.gov.ua/" target="_blank"> Міністерством цифрової трансформації України</a> за підтримки проекту <a href="http://tapas.org.ua" target="_blank">«Прозорість та підзвітність у державному управлінні та послугах»/a> виходячи з переліку наборів даних, затвердженого <a href="https://zakon0.rada.gov.ua/laws/show/835-2015-п" target="_blank"> Постановою КМУ № 835</a> щодо «Всіх розпорядників» та щодо «Органів місцевого самоврядування».</b></p>
 
 ---
 
